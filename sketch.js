@@ -64,3 +64,4 @@ if(path.y > 400 ){path.y = height/2;}
     { 
   drawSprites();
 }
+}
